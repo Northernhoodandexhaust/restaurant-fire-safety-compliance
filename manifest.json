@@ -1,0 +1,7 @@
+{
+  "name": "Restaurant Fire Safety Compliance",
+  "description": "Claude skill for NFPA 96 and Alberta restaurant fire safety compliance guidance.",
+  "version": "1.0.0",
+  "author": "Northern Hood and Exhaust",
+  "license": "MIT"
+}
